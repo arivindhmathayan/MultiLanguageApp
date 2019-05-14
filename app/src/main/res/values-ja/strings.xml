@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="welcome">வணக்கம்</string>
+    <string name="email">மின்னஞ்சல்</string>
+    <string name="password">கடவுச்சொல்</string>
+    <string name="login">உள் நுழை</string>
+    <string name="signup">இணைந்ததற்கு</string>
+
+</resources>

@@ -1,0 +1,33 @@
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/eng"
+        android:title="English"/>
+    <item
+        android:id="@+id/hn"
+        android:title="Hindi"/>
+    <item
+        android:id="@+id/fr"
+        android:title="French"/>
+    <item
+        android:id="@+id/de"
+        android:title="Deutsch "/>
+    <item
+        android:id="@+id/ja"
+        android:title="Tamil "/>
+    <item
+        android:id="@+id/ma"
+        android:title="Malayalam "/>
+    <item
+        android:id="@+id/ka"
+        android:title="Kannada "/>
+    <item
+        android:id="@+id/te"
+        android:title="Telugu "/>
+</menu>

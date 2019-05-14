@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="welcome">സ്വാഗതം</string>
+    <string name="email">ഇമെയിൽ</string>
+    <string name="password">പാസ്വേഡ്</string>
+    <string name="login">ലോഗിൻ</string>
+    <string name="signup">സൈൻ അപ്പ് ചെയ്യുക</string>
+
+</resources>

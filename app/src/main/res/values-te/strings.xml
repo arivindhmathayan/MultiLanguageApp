@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="welcome">స్వాగత</string>
+    <string name="email">ఇమెయిల్</string>
+    <string name="password">పాస్వర్డ్</string>
+    <string name="login">లాగిన్</string>
+    <string name="signup">చేరడం</string>
+
+</resources>
